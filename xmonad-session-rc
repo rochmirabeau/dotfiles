@@ -1,0 +1,8 @@
+xfce4-volumed &
+xfce4-power-manager &
+/home/rochx20w/touchpadsettings.sh &
+xcompmgr -c &
+/home/rochx20w/.screenlayout/2ndscreenmain.sh &
+feh --bg-scale /home/rochx20w/Pictures/wallpapers/plain-black-background_1_1680x1050.jpg &
+redshift -O 2000k &
+pulseaudio --start &
